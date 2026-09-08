@@ -1,6 +1,6 @@
 # 🚗 Exercício de POO: Hierarquia de Veículos
 
-Projeto prático desenvolvido para a disciplina de **Análise e Construção de Dados (ACD)**, com foco nos conceitos fundamentais de **Programação Orientada a Objetos** em Java.
+Projeto prático desenvolvido para a disciplina de **Algoritmos e Classificação de Dados (ACD)**, com foco nos conceitos fundamentais de **Programação Orientada a Objetos** em Java.
 
 ---
 
